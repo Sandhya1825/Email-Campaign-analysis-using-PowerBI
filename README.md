@@ -1,0 +1,2 @@
+# Email-Campaign-analysis-using-PowerBI
+An e-commerce organisation sells things online. The items will be purchased online and delivered. The marketing emails will be sent by the ecommerce agent. Coupon codes will be sent by the company and they are clicked and applied by the people. For example, a campaign is conducted &amp; emails are sent to people. So, the customers receiving the mail clicks, opens and applies the coupon code. Therefore, this analysis is done to know the mails sent, delivered and several other criteria were analysed.
